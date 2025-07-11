@@ -1,14 +1,6 @@
-# Out-FIT!
-
-### Team ID		: C241-PS235
-### Team Members	: 
-1. (ML) M004D4KY2142 - Adnan Alamsyah- Sepuluh Nopember Institute of Technology
-2. (ML) M004D4KY1604 - Maulana Arif - Sepuluh Nopember Institute of Technology
-3. (ML) M120D4KX3273 - Salsa Diniarti – Telkom Institute of Technology Purwokerto
-4. (CC) C120D4KY1241 – Yuwan Cornelius – Telkom Institute of Technology Purwokerto
-5. (CC) C004D4KX0604 - Wardatul Amalia Safitri  - Sepuluh Nopember Institute of Technology
-6. (MD) A228D4KY4229 - Aaz Zazri Nugraha - Jenderal Achmad Yani University
-7. (MD) A409D4KY3565 - Stefanus Cecilio Andika Adi Setiawan - Yos Sudarso College of Computer Science 
 
 ### Project Scope
-Developing a fashion recommendation application which is interactive, useful, and user-friendly for colour blind people
+Development of an application for colour detection in outfits for people with colour blindness
+The developed application has two main features:
+Colour Detection: Using the smartphone's camera, the app can detect colours in the user's outfit and tell them the name of the colour. This is very helpful for those who cannot distinguish certain colours.
+Clothing Recommendations: Based on the detected colours, the app also provides suitable clothing recommendations. With this feature, users can ensure that the clothes they choose always match and look good.
